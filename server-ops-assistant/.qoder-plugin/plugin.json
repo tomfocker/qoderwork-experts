@@ -1,0 +1,25 @@
+{
+  "name": "server-ops-assistant",
+  "displayName": "个人服务器运维助手",
+  "version": "1.0.0",
+  "description": "Personal server operations assistant — health checks, Docker management, security hardening, log analysis, backup management, and asset inventory for multi-device home lab environments.",
+  "descriptionZh": "个人服务器运维助手，覆盖健康巡检、Docker管理、安全加固、日志分析、备份恢复、资产台账六大场景，通过SSH远程管理多台服务器设备。",
+  "category": "engineering",
+  "tags": [
+    "server",
+    "docker",
+    "security",
+    "backup",
+    "ssh",
+    "devops",
+    "homelab"
+  ],
+  "skills": [
+    "./skills/服务器健康巡检",
+    "./skills/Docker服务管理",
+    "./skills/安全加固与防护",
+    "./skills/日志分析与告警",
+    "./skills/备份与恢复",
+    "./skills/服务器资产台账"
+  ]
+}
