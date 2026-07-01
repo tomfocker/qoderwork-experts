@@ -1,0 +1,23 @@
+{
+  "name": "network-ops-assistant",
+  "displayName": "机房运维助手",
+  "version": "1.2.0",
+  "description": "School computer lab network operations assistant — remote switch management, fault diagnosis, VLAN operations, port monitoring, and diagnostics for Huawei VRP switches.",
+  "descriptionZh": "学校机房网络运维助手，支持华为交换机远程管理、故障诊断（物理层/DHCP/MAC定位/安全审计）、VLAN变更、端口监控告警。",
+  "category": "engineering",
+  "tags": [
+    "network",
+    "switch",
+    "huawei",
+    "vrp",
+    "telnet",
+    "vlan",
+    "troubleshoot",
+    "运维"
+  ],
+  "skills": [
+    "./skills/交换机远程管理",
+    "./skills/端口VLAN变更",
+    "./skills/网络故障诊断"
+  ]
+}
